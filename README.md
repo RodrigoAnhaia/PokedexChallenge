@@ -1,1 +1,1 @@
-# PokéDexChallenge
+# PokédexChallenge
